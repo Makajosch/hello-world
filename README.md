@@ -1,3 +1,3 @@
 # hello-world
-first exercise
+exercise
 MK height 190cm weight 94kg
